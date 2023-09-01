@@ -12,13 +12,15 @@ To ensure the website functions correctly on your local machine, please follow t
    git clone https://github.com/kosolapovanatolii/server-repo.git
 2. Install the necessary dependencies using npm:
 
-  npm install
+   ```bash
+    npm install
 
 ## Running the Server
 After successfully installing the dependencies, you can start the server on your local machine. Ensure that no other applications are using port 5500.
 
 1. Start the server by running the following command:
-  npm start
+   ```bash
+    npm start
 
 The server will be up and running on port 5500.
 
